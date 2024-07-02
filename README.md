@@ -5,7 +5,7 @@ This project was given by Prodigy Infotech as Task 1 in the domain Web Developme
 
 ## Description
 
-This project is an HTML Responsive Travel Agency Landing Page.  
+This project is an HTML Responsive Travel Agency Landing Page.  It have the humburger menu which consists of the home,about,services and contact. 
 
 Languages used: HTML, CSS, JavaScript
 
