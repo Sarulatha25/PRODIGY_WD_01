@@ -5,7 +5,7 @@ This project was given by Prodigy Infotech as Task 1 in the domain Web Developme
 
 ## Description
 
-This project is an HTML Responsive Landing Page. Which have the Hamburger menu.
+This project is an HTML Responsive Travel Agency Landing Page.  
 
 Languages used: HTML, CSS, JavaScript
 
@@ -14,3 +14,4 @@ Languages used: HTML, CSS, JavaScript
 - `index.html`: The main HTML file for the webpage.
 - `styles.css`: Directory containing CSS stylesheets.
 - `assets.jpg`: Directory containing images used in the webpage.
+- `screenshot1.png`: The result of the task 1.
