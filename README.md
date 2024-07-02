@@ -9,6 +9,10 @@ This project is an HTML Responsive Travel Agency Landing Page.  It have the humb
 
 Languages used: HTML, CSS, JavaScript
 
+<div align="center">
+  <img src="./screenshot1.png" />
+</div>
+
 ## File Structure
 
 - `index.html`: The main HTML file for the webpage.
