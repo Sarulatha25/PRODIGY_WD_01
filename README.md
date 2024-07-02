@@ -13,4 +13,4 @@ Languages used: HTML, CSS, JavaScript
 
 - `index.html`: The main HTML file for the webpage.
 - `styles.css`: Directory containing CSS stylesheets.
-- `assets.png`: Directory containing images used in the webpage.
+- `assets.jpg`: Directory containing images used in the webpage.
