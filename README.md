@@ -8,6 +8,7 @@ This project was given by Prodigy Infotech as Task 1 in the domain Web Developme
 This project is an HTML Responsive Travel Agency Landing Page. When we minimize the website in mobile view the dropdown menu will appear which consists of the home,about,services and contact. 
 
 Languages used: HTML, CSS, JavaScript
+
 Website Link:https://xploreagency.netlify.app/
 
 <div align="center">
